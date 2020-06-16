@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/what2watch/static/css/main.5cad8f57.chunk.css",
+    "main.css": "/what2watch/static/css/main.436f5b40.chunk.css",
     "main.js": "/what2watch/static/js/main.601f0bdf.chunk.js",
     "main.js.map": "/what2watch/static/js/main.601f0bdf.chunk.js.map",
     "runtime-main.js": "/what2watch/static/js/runtime-main.0c086b11.js",
@@ -8,15 +8,15 @@
     "static/js/2.9a639023.chunk.js": "/what2watch/static/js/2.9a639023.chunk.js",
     "static/js/2.9a639023.chunk.js.map": "/what2watch/static/js/2.9a639023.chunk.js.map",
     "index.html": "/what2watch/index.html",
-    "precache-manifest.ebc7e984c11f34cbf962f737162256ba.js": "/what2watch/precache-manifest.ebc7e984c11f34cbf962f737162256ba.js",
+    "precache-manifest.46fa3ec8cad4b2bddd00d7dd3ef76910.js": "/what2watch/precache-manifest.46fa3ec8cad4b2bddd00d7dd3ef76910.js",
     "service-worker.js": "/what2watch/service-worker.js",
-    "static/css/main.5cad8f57.chunk.css.map": "/what2watch/static/css/main.5cad8f57.chunk.css.map",
+    "static/css/main.436f5b40.chunk.css.map": "/what2watch/static/css/main.436f5b40.chunk.css.map",
     "static/js/2.9a639023.chunk.js.LICENSE.txt": "/what2watch/static/js/2.9a639023.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.0c086b11.js",
     "static/js/2.9a639023.chunk.js",
-    "static/css/main.5cad8f57.chunk.css",
+    "static/css/main.436f5b40.chunk.css",
     "static/js/main.601f0bdf.chunk.js"
   ]
 }

@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f995416e0c26be43e87ca0ecd0e1d28a",
+    "revision": "e14cbb8b9548f217ea8ce67779e4e356",
     "url": "/what2watch/index.html"
   },
   {
-    "revision": "4f1485861a9548c5bcc5",
-    "url": "/what2watch/static/css/main.5cad8f57.chunk.css"
+    "revision": "291d95bfa6be24ba2195",
+    "url": "/what2watch/static/css/main.436f5b40.chunk.css"
   },
   {
     "revision": "a2344de6c1d8226f15b7",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/what2watch/static/js/2.9a639023.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "4f1485861a9548c5bcc5",
+    "revision": "291d95bfa6be24ba2195",
     "url": "/what2watch/static/js/main.601f0bdf.chunk.js"
   },
   {
