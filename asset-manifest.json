@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/what2watch/static/css/main.436f5b40.chunk.css",
-    "main.js": "/what2watch/static/js/main.601f0bdf.chunk.js",
-    "main.js.map": "/what2watch/static/js/main.601f0bdf.chunk.js.map",
+    "main.css": "/what2watch/static/css/main.bd6885ae.chunk.css",
+    "main.js": "/what2watch/static/js/main.6988b55c.chunk.js",
+    "main.js.map": "/what2watch/static/js/main.6988b55c.chunk.js.map",
     "runtime-main.js": "/what2watch/static/js/runtime-main.0c086b11.js",
     "runtime-main.js.map": "/what2watch/static/js/runtime-main.0c086b11.js.map",
-    "static/js/2.9a639023.chunk.js": "/what2watch/static/js/2.9a639023.chunk.js",
-    "static/js/2.9a639023.chunk.js.map": "/what2watch/static/js/2.9a639023.chunk.js.map",
+    "static/js/2.a452aa7b.chunk.js": "/what2watch/static/js/2.a452aa7b.chunk.js",
+    "static/js/2.a452aa7b.chunk.js.map": "/what2watch/static/js/2.a452aa7b.chunk.js.map",
     "index.html": "/what2watch/index.html",
-    "precache-manifest.46fa3ec8cad4b2bddd00d7dd3ef76910.js": "/what2watch/precache-manifest.46fa3ec8cad4b2bddd00d7dd3ef76910.js",
+    "precache-manifest.7840b8bb76c77e4ddbe3b61cff2bc77c.js": "/what2watch/precache-manifest.7840b8bb76c77e4ddbe3b61cff2bc77c.js",
     "service-worker.js": "/what2watch/service-worker.js",
-    "static/css/main.436f5b40.chunk.css.map": "/what2watch/static/css/main.436f5b40.chunk.css.map",
-    "static/js/2.9a639023.chunk.js.LICENSE.txt": "/what2watch/static/js/2.9a639023.chunk.js.LICENSE.txt"
+    "static/css/main.bd6885ae.chunk.css.map": "/what2watch/static/css/main.bd6885ae.chunk.css.map",
+    "static/js/2.a452aa7b.chunk.js.LICENSE.txt": "/what2watch/static/js/2.a452aa7b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.0c086b11.js",
-    "static/js/2.9a639023.chunk.js",
-    "static/css/main.436f5b40.chunk.css",
-    "static/js/main.601f0bdf.chunk.js"
+    "static/js/2.a452aa7b.chunk.js",
+    "static/css/main.bd6885ae.chunk.css",
+    "static/js/main.6988b55c.chunk.js"
   ]
 }
