@@ -9,7 +9,7 @@
     0 -6px 16px -6px rgba(0, 0, 0, 0.025);
 }
 
-.movies .movie {
+.movies .movie a {
   display: grid;
   grid-template-columns: minmax(150px, 1fr) 2fr;
   grid-gap: 20px;
