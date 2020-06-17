@@ -7,6 +7,7 @@ function App() {
   return (
     <HashRouter>
       <Route path="/" exact={true} component={Home} />
+      <Route path="/about" exact={true} component={About} />
     </HashRouter>
   );
 }
